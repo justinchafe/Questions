@@ -1,4 +1,4 @@
-# UNB Psychology Open House Kiosk Application - 2010
+# UNB Psychology Open House Sexual Education
 
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -10,10 +10,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Nicola's Experiment (Computerized tasks) - Psychology UNBF</h3>
+<h3 align="center">UNB Psychology Open House - Psychology UNBF</h3>
 
   <p align="center">
-    Nicola's Experiment - Psychology
+    UNB Psychology Open House Kiosk Application
     <br />
     <a href="https://github.com/justinchafe/Experiment"><strong>Explore the docs »</strong></a>
     <br />
@@ -21,88 +21,69 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-#About The Project
+### About The Project
 
 <p align="left">
-This is a computerized version of a Psychology experiment for a PhD dissertation in Psychology.
+A sexual education quiz application. Delivered in kiosk style. Used during a UNB Open House around 2010.
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-#Built With
-* [![Java][Java-screenshot]][Java-url] Java 8
+### Built With
+* VB.NET
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-#Getting Started
+### Getting Started
 
 To get a local copy up and running follow these simple example steps.
+<p align="right">(<a href="#readme-top">back to top</a>)
+</p>
+
+### Prerequisites
+* Moved to Recent IDE - Visual Studio 64-bit<br>
+* Updated to .NET 4.8 Framework
+* Windows Forms
+* Entry - QuestionForm.vb
+
+### Notes
+* Build the app and deploy it via the "publish" option in Visual Studio <br>
+<!--*  <br> 
+*  <br> -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#Prerequisites
-IDE used is IntelliJ_Community edition.<br>
-Download and install Java 8 version 1.8.0_371 JDK  (32-bit)
-* Compiled best against Java 8 version 1.8.0_371
-* 32 Bit runtime used for VLC 2.x libary compatibility - (playing videos).
-* Video folder is required (outside .jar file)
-* vlc folder is required
-
-
-
-#Notes
-* Video's have been edited for length/brevity.  Full clips too large for GitHub. <br>
-* Timing in the experiment has been speedup via settings.txt for testing. <br>
-* settings.txt can be used to change video file extension. <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-#Installation
+### Installation
 
 * Clone the repo
    ```sh
-   git clone https://github.com/justinchafe/Experiment
+   git clone https://github.com/justinchafe/Questions
    ```
 * Alternatively:
    ```
-   Download via: https://github.com/justinchafe/Experiment
+   Download via: https://github.com/justinchafe/Questions
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-#Usage
-* To create an executable jar file (IntelliJ):
- ```
-IntelliJ->Project STructure->Artifacts->Create Jar
-
-Existing jar file in out/artifacts/Experiment_jar/Experiment.jar
-Execute: java -jar Experiment.jar (32-bit JRE)
-
-```
-#Data
-Data:
-```
-File output: 
-.csv files and .xml files are created for data analysis at top level.
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
-#Contact
+### Contact
 
 * [Justin Chafe](https://www.linkedin.com/in/justin-chafe/) - justin.chafe@gmail.com
-* Project Link: [https://github.com/justinchafe/Experiment](https://github.com/justinchafe/wlt)
+* Project Link: [https://github.com/justinchafe/Questions](https://github.com/justinchafe/wlt)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-#Acknowledgments
-* <a href="https://www.oldnorthpsychology.ca/our-doctors/dr-nicola-mchale">Nicola McHale</a>
+### Acknowledgments
+* <a href="https://www.unb.ca/fredericton/arts/departments/psychology/">Psychology Department</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/justin-chafe/
-[product-screenshot]: images/screenshotexpr.png
+[product-screenshot]: images/screenshot.png
 [Java-screenshot]: images/javatiny.png
 [Java-url]: https://www.oracle.com/ca-en/java/technologies/downloads/
