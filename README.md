@@ -15,7 +15,7 @@
   <p align="center">
     UNB Psychology Open House Kiosk Application
     <br />
-    <a href="https://github.com/justinchafe/Experiment"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/justinchafe/Questions"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
